@@ -1,2 +1,2 @@
-# DashboardsIndex
-References dashboards
+# Default template
+To clone for projects
